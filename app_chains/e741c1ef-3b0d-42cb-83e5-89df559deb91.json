@@ -1,0 +1,8 @@
+{
+  "name": "vswap",
+  "logo": "https://imgur.com/Qr5crWD",
+  "rpc_url": "https://rpc.vswap.xyz",
+  "explorer_url": "https://explorer.vswap.xyz",
+  "metrics_endpoint": "https://metrics.vswap.xyz",
+  "id": "e741c1ef-3b0d-42cb-83e5-89df559deb91"
+}
